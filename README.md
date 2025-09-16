@@ -6,7 +6,7 @@ A online shopping store that specializes in steel toe boots for trade workers
 ## Installation
 Go to the website
 
-## <u>Usage</u>
+## Usage
 run it in web browser, and you can travers the website by using the side panel and header of the website
 
 ### Authors
