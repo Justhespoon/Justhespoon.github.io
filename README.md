@@ -9,7 +9,7 @@ Go to the website
 ### Usage
 run it in web browser, and you can travers the website by using the side panel and header of the website
 
-#### Authors
+### Authors
 Leandro veloso, Kris Baijnauth, Mahammad Samadov
 
 
