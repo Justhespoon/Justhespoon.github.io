@@ -1,0 +1,53 @@
+    /* html style *//
+
+        html {
+
+            background-color: yellow;
+
+        }
+        /* body style /*
+
+
+
+        body {
+        width: 8500px
+
+    }
+
+        /* header style */
+
+        header {
+
+            height: 120px;
+            border-bottom: 2px solid black;
+        }
+        /* website logo style */
+
+        header img {
+
+                width: 90px;
+                height: 90px;
+                float: left;
+                border-radius: 50%;
+        }
+
+
+        header h1 {
+            margin-left: 100px;
+            padding: 10px;
+
+ }
+            /* main nav bar style */
+
+
+nav ul {
+
+        list-style-type: none;
+}
+
+
+nav ul li {
+    display 
+}
+
+
