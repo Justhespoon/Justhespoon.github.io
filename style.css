@@ -1,0 +1,57 @@
+html{
+    display: table;
+    margin: auto;
+}
+
+
+header{
+    position: relative;
+    padding-bottom: 200px;
+    
+}
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+header img{
+    width: 200px;
+    height: 200px;
+    float:left;
+    padding-right: 400px;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+header ul li {
+  float: left;
+}
+
+header ul li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+footer{
+    padding-top: 200px;
+}
+
+footer ul{
+    list-style-type: none;
+    float: left;
+}
+
+footer a{
+    text-align: center;
+}
+
+footer img{
+    float:right;
+    margin-top: 100px;
+}
