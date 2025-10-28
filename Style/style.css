@@ -1,0 +1,107 @@
+html{
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    border-bottom: 20px solid beige;
+}
+
+
+header h1{
+    text-align: center;
+    animation: colorChange 3s infinite;
+}
+
+/* Animation for the header */
+@keyframes colorChange {
+  0% { color: red; }
+  50% { color: blue; }
+  100% { color: green; }
+}
+
+h2{
+    color: beige;
+}
+
+/* This is the css for paragraph 1 the introduction */
+
+.paragraph1 p{
+    margin-bottom: 200px;
+    border-bottom: 5px solid beige;
+    padding-bottom: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/* This is the css for pragraph 2 My course */
+.paragraph2{
+    border-bottom: 5px solid beige;
+}
+
+.paragraph2 h2{
+    letter-spacing: 2px;
+    margin-top: -10px;
+}
+
+
+.paragraph2  p{
+    width: 900px;
+    text-align: justify;
+}
+
+.paragraph2 img{
+    position: relative;
+    left: 950px;
+    top: -200px;
+    margin-top: -20px;
+}
+
+/* Css for paragraph 3 starts here */
+
+.paragraph3{
+    border-bottom: 5px solid beige;
+    padding-bottom: 100px;
+}
+
+.paragraph3 h2{
+    letter-spacing: 2px;
+}
+
+.paragraph3 img{
+    padding-bottom: 50px;
+    margin-left: 500px;
+}
+
+.paragraph3 p{
+    padding-bottom: 20px;
+}
+
+
+/* Paragraph 4 starts here this is the end of the css */
+
+.paragraph4{
+    text-align: center;
+}
+
+
+.paragraph4 ul{
+    list-style-type: none;
+    margin-left: -40px;
+    line-height: 2.5em;
+    font-size: 25px;
+}
+
+
+.link1:hover{
+    color: greenyellow;
+}
+
+.link2:hover{
+    color: orange;
+}
+
+.link3:hover{
+    color: green;
+}
